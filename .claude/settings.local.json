@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest -q)",
+      "Bash(backend/.venv/Scripts/python.exe -m pytest backend -q)",
+      "Bash(backend/.venv/Scripts/python.exe *)"
+    ]
+  }
+}
