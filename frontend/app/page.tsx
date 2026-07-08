@@ -1,6 +1,7 @@
 import { Footer } from "@/components/landing/Footer";
 import { HeroIllustration } from "@/components/landing/HeroIllustration";
 import { ListingCard } from "@/components/landing/ListingCard";
+import { WidgetLoader } from "@/components/widget/WidgetLoader";
 import { FEATURED_LISTINGS, POSSESSION_DETAIL, POSSESSION_QUARTER } from "@/lib/content";
 
 // Static-rendered shell with hourly ISR: content only changes when this
@@ -43,6 +44,7 @@ export default function Home() {
 
       <div className="flex-1" />
       <Footer />
+      <WidgetLoader />
     </div>
   );
 }

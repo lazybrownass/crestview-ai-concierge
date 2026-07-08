@@ -161,6 +161,19 @@ class OllamaProvider:
                     "stream": False,
                 },
             )
+            if decision.status_code == 400:
+                # Some local models don't support tool calling at all and
+                # 400 outright rather than just ignoring "tools" — retry
+                # once without it so local dev still works, minus the tool.
+                decision = await client.post(
+                    f"{self._base_url}/v1/chat/completions",
+                    json={
+                        "model": self._model,
+                        "messages": conversation,
+                        "max_tokens": self._max_tokens,
+                        "stream": False,
+                    },
+                )
             decision.raise_for_status()
             choice = decision.json()["choices"][0]["message"]
             tool_calls = choice.get("tool_calls") or []
