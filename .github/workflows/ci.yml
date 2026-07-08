@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: repo rails present
+        run: |
+          test -f .gitignore
+          test -f LICENSE
+          test -f .env.example
+          echo "Phase 0 rails OK — backend/frontend jobs land in later phases."
