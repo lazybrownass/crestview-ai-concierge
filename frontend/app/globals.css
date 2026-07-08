@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-green-950: #14281d;
+  --color-green-900: #1b3527;
+  --color-green-800: #234531;
+  --color-stone-100: #ede6da;
+  --color-stone-400: #a89f8d;
+  --color-brass-500: #b08d57;
+  --color-brass-400: #c4a574;
+
+  --font-display: var(--font-young-serif), Georgia, serif;
+  --font-body: var(--font-schibsted), Arial, sans-serif;
+  --font-mono: var(--font-plex-mono), "Courier New", monospace;
+
+  --radius-chip: 2px;
+  --radius-card: 12px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hero-fade-in {
+    animation: hero-fade-in 600ms ease-out both;
+  }
+}
+
+@keyframes hero-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+body {
+  background-color: var(--color-green-950);
+  color: var(--color-stone-100);
+  font-family: var(--font-body);
+}
+
+::selection {
+  background-color: var(--color-brass-500);
+  color: var(--color-green-950);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brass-400);
+  outline-offset: 2px;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
