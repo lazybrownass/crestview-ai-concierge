@@ -1,3 +1,4 @@
+import { MarkdownMessage } from "@/components/widget/MarkdownMessage";
 import { SourceChip } from "@/components/widget/SourceChip";
 import type { ChatMessage } from "@/components/widget/types";
 
@@ -23,12 +24,14 @@ export function MessageBubble({
             : "border border-green-800 bg-green-900/70 text-stone-100"
         }`}
       >
-        <p className="whitespace-pre-wrap leading-relaxed">
-          {message.text}
-          {message.streaming && (
+        {message.streaming ? (
+          <p className="whitespace-pre-wrap leading-relaxed">
+            {message.text}
             <span className="ml-0.5 inline-block h-3.5 w-1.5 animate-pulse bg-brass-400 align-middle" />
-          )}
-        </p>
+          </p>
+        ) : (
+          <MarkdownMessage text={message.text} />
+        )}
 
         {message.sources.length > 0 && (
           <div className="mt-2 flex flex-wrap gap-2">

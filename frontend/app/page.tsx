@@ -11,7 +11,7 @@ export const revalidate = 3600;
 
 export default function Home() {
   return (
-    <div className="flex flex-1 flex-col">
+    <main className="flex flex-1 flex-col">
       <section className="relative isolate flex min-h-[70vh] items-end overflow-hidden">
         <HeroIllustration />
         <div className="hero-fade-in relative z-10 px-6 pb-16 md:px-16 md:pb-24">
@@ -45,6 +45,6 @@ export default function Home() {
       <div className="flex-1" />
       <Footer />
       <WidgetLoader />
-    </div>
+    </main>
   );
 }
