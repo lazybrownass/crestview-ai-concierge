@@ -1,0 +1,362 @@
+[
+  {
+    "id": "amenities-1",
+    "doc": "amenities",
+    "doc_label": "AMENITIES",
+    "section": "Landscaped courtyard",
+    "section_index": 1,
+    "text": "Landscaped courtyard\n\nA 1.2-acre landscaped courtyard sits at the center of the three towers, with mature tree planting, seating areas, and a 400-meter jogging track around its perimeter."
+  },
+  {
+    "id": "amenities-2",
+    "doc": "amenities",
+    "doc_label": "AMENITIES",
+    "section": "Wellness",
+    "section_index": 2,
+    "text": "Wellness\n\n- Swimming pool (25 m, temperature-controlled) with a separate children's pool\n- Fully equipped gymnasium, open 5 am to 11 pm\n- Yoga and studio room, bookable in 1-hour slots through the resident app"
+  },
+  {
+    "id": "amenities-3",
+    "doc": "amenities",
+    "doc_label": "AMENITIES",
+    "section": "Family and recreation",
+    "section_index": 3,
+    "text": "Family and recreation\n\n- Covered kids' play area with rubberized safety flooring\n- Community hall for private events, seats up to 120, bookable by residents\n- Retail arcade on the ground floor of Tower B (grocery, pharmacy, cafe at launch)"
+  },
+  {
+    "id": "amenities-4",
+    "doc": "amenities",
+    "doc_label": "AMENITIES",
+    "section": "Convenience and services",
+    "section_index": 4,
+    "text": "Convenience and services\n\n- On-site mosque, capacity 150\n- 24/7 manned security at all tower entrances and the perimeter gate\n- CCTV coverage of common areas and parking\n- Backup power for common areas and one outlet per unit, sized to run lighting, fans, and refrigeration during an outage\n- 2 EV charging bays per tower in the basement parking, expandable on resident demand\n- Basement parking: 1 assigned bay per 1-bed unit, 2 per 2-bed and 3-bed unit"
+  },
+  {
+    "id": "amenities-5",
+    "doc": "amenities",
+    "doc_label": "AMENITIES",
+    "section": "Maintenance of amenities",
+    "section_index": 5,
+    "text": "Maintenance of amenities\n\nAll shared amenities are covered by the monthly maintenance charge described in the maintenance policy document. There is no separate membership fee for the pool, gym, or community hall."
+  },
+  {
+    "id": "booking-process-1",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Step 1 — Expression of interest",
+    "section_index": 1,
+    "text": "Step 1 — Expression of interest\n\nProspective buyers submit an expression of interest for a specific unit, either through the sales office or the website concierge. Unit availability is confirmed in real time; a unit is not held until Step 2."
+  },
+  {
+    "id": "booking-process-2",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Step 2 — Token amount",
+    "section_index": 2,
+    "text": "Step 2 — Token amount\n\nA token payment of PKR 500,000 holds the chosen unit for 7 calendar days. The token is adjusted against the down payment if the buyer proceeds, and is fully refundable if Crestview cannot deliver the unit as described. It is non-refundable if the buyer withdraws after the 7-day hold without cause."
+  },
+  {
+    "id": "booking-process-3",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Step 3 — Sale agreement",
+    "section_index": 3,
+    "text": "Step 3 — Sale agreement\n\nWithin the 7-day hold, the buyer signs the sale agreement, which sets out the unit, the price, the payment plan chosen (per the payment plan document), and the possession terms (per the possession schedule document). The agreement requires the buyer's CNIC (or passport for overseas Pakistanis and foreign nationals) and, for joint ownership, both applicants' documents."
+  },
+  {
+    "id": "booking-process-4",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Step 4 — Down payment",
+    "section_index": 4,
+    "text": "Step 4 — Down payment\n\nThe down payment (per the buyer's chosen payment plan) is due within 15 days of signing the sale agreement. The 36-month installment schedule (or the buyer's chosen term) begins the month after the down payment clears."
+  },
+  {
+    "id": "booking-process-5",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Step 5 — Confirmation",
+    "section_index": 5,
+    "text": "Step 5 — Confirmation\n\nCrestview issues a confirmation letter and a payment schedule showing every installment date and amount. Buyers can view this schedule at any time through the resident portal once it is issued."
+  },
+  {
+    "id": "booking-process-6",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Overseas and foreign buyers",
+    "section_index": 6,
+    "text": "Overseas and foreign buyers\n\nOverseas Pakistanis and foreign nationals follow the same five steps. Payments from outside Pakistan must be routed through a normal banking channel in the buyer's name and are subject to the State Bank of Pakistan's prevailing foreign remittance regulations at the time of payment."
+  },
+  {
+    "id": "booking-process-7",
+    "doc": "booking-process",
+    "doc_label": "BOOKING PROCESS",
+    "section": "Cancellation and refunds",
+    "section_index": 7,
+    "text": "Cancellation and refunds\n\nCancellation after the sale agreement is signed but before possession returns all paid amounts minus the token amount and a cancellation charge of 5% of the unit price. Refunds are processed within 45 business days of a written cancellation request."
+  },
+  {
+    "id": "faq-1",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "Where is Crestview Residences?",
+    "section_index": 1,
+    "text": "Where is Crestview Residences?\n\nCanal District, Lahore. Three towers (A, B, C) around a shared landscaped courtyard."
+  },
+  {
+    "id": "faq-2",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "What unit types are available?",
+    "section_index": 2,
+    "text": "What unit types are available?\n\n1, 2, and 3 bed units across Towers A, B, and C. See the listings document for current units, sizes, and prices."
+  },
+  {
+    "id": "faq-3",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "What is the payment plan?",
+    "section_index": 3,
+    "text": "What is the payment plan?\n\nStandard structure is 20% down, 70% over 36 monthly installments, and 10% on possession. Down payment and installment term are adjustable within limits described in the payment plan document."
+  },
+  {
+    "id": "faq-4",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "When is possession?",
+    "section_index": 4,
+    "text": "When is possession?\n\nTarget possession is Q4 2027, phased by tower: Tower A in October 2027, Tower B in November 2027, Tower C in December 2027. See the possession schedule document for the handover process and the delay policy."
+  },
+  {
+    "id": "faq-5",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "Can I resell or transfer my unit before possession?",
+    "section_index": 5,
+    "text": "Can I resell or transfer my unit before possession?\n\nYes. A transfer of booking rights before possession is permitted with a transfer fee of 1% of the current unit price, payable by the outgoing buyer, and requires Crestview's written no-objection confirming the account is current. The incoming buyer completes the same CNIC/passport verification as a new booking."
+  },
+  {
+    "id": "faq-6",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "Is financing available?",
+    "section_index": 6,
+    "text": "Is financing available?\n\nCrestview does not provide in-house financing beyond the installment plan itself. Buyers are free to arrange bank financing (including Islamic financing products) independently; Crestview provides a booking confirmation letter that most banks accept as supporting documentation."
+  },
+  {
+    "id": "faq-7",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "Are pets allowed?",
+    "section_index": 7,
+    "text": "Are pets allowed?\n\nYes, subject to registration and the limits in the pet policy document."
+  },
+  {
+    "id": "faq-8",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "What does the monthly maintenance charge cover?",
+    "section_index": 8,
+    "text": "What does the monthly maintenance charge cover?\n\nSecurity, landscaping, common area upkeep, backup power for common areas, structural insurance, and amenity upkeep. See the maintenance policy document for the exact rate and what is excluded."
+  },
+  {
+    "id": "faq-9",
+    "doc": "faq",
+    "doc_label": "FAQ",
+    "section": "Can I book a viewing?",
+    "section_index": 9,
+    "text": "Can I book a viewing?\n\nYes, through the sales office or by requesting a callback through the website concierge. Site visits to the show apartment are available daily except public holidays."
+  },
+  {
+    "id": "listings-1",
+    "doc": "listings",
+    "doc_label": "LISTINGS",
+    "section": "Overview",
+    "section_index": 1,
+    "text": "Overview\n\nCrestview Residences, Canal District, Lahore. Three towers (A, B, C) around a shared landscaped courtyard. Prices below are current as of listing publication and are subject to change without notice; confirmed prices are locked at the time of booking."
+  },
+  {
+    "id": "listings-2",
+    "doc": "listings",
+    "doc_label": "LISTINGS",
+    "section": "Tower A — 1 Bed",
+    "section_index": 2,
+    "text": "Tower A — 1 Bed\n\n### A-402\n- Floor: 4\n- Size: 700 sq ft\n- Price: PKR 18,900,000\n- Orientation: faces the internal courtyard\n- Status: Available\n\n### A-710\n- Floor: 7\n- Size: 750 sq ft\n- Price: PKR 20,250,000\n- Orientation: corner unit, canal-facing\n- Status: Available"
+  },
+  {
+    "id": "listings-3",
+    "doc": "listings",
+    "doc_label": "LISTINGS",
+    "section": "Tower B — 2 Bed",
+    "section_index": 3,
+    "text": "Tower B — 2 Bed\n\n### B-305\n- Floor: 3\n- Size: 1,200 sq ft\n- Price: PKR 32,400,000\n- Orientation: canal-facing\n- Status: Available\n\n### B-812\n- Floor: 8\n- Size: 1,250 sq ft\n- Price: PKR 33,750,000\n- Orientation: courtyard-facing\n- Status: Reserved"
+  },
+  {
+    "id": "listings-4",
+    "doc": "listings",
+    "doc_label": "LISTINGS",
+    "section": "Tower C — 3 Bed",
+    "section_index": 4,
+    "text": "Tower C — 3 Bed\n\n### C-201\n- Floor: 2\n- Size: 1,650 sq ft\n- Price: PKR 44,550,000\n- Orientation: courtyard-facing\n- Status: Available\n\n### C-605\n- Floor: 6\n- Size: 1,720 sq ft\n- Price: PKR 46,440,000\n- Orientation: top-floor, canal and skyline view\n- Status: Available"
+  },
+  {
+    "id": "listings-5",
+    "doc": "listings",
+    "doc_label": "LISTINGS",
+    "section": "Pricing basis",
+    "section_index": 5,
+    "text": "Pricing basis\n\nAll units are priced at a flat PKR 27,000 per square foot at current release. This rate applies uniformly across towers and floors; there is no floor premium at this stage of sales."
+  },
+  {
+    "id": "maintenance-policy-1",
+    "doc": "maintenance-policy",
+    "doc_label": "MAINTENANCE POLICY",
+    "section": "Monthly charge",
+    "section_index": 1,
+    "text": "Monthly charge\n\nMaintenance is billed monthly at PKR 18 per square foot of the unit's covered area. For example, a 1,200 sq ft unit (B-305) is billed PKR 21,600 per month. The rate is reviewed annually each January and will not increase by more than 10% year over year."
+  },
+  {
+    "id": "maintenance-policy-2",
+    "doc": "maintenance-policy",
+    "doc_label": "MAINTENANCE POLICY",
+    "section": "What it covers",
+    "section_index": 2,
+    "text": "What it covers\n\n- Security staffing and CCTV monitoring\n- Landscaping and courtyard upkeep\n- Common area cleaning, lighting, and elevator maintenance\n- Backup power fuel and servicing for common areas\n- Structural insurance for the buildings (not unit contents)\n- Amenity upkeep (pool, gym, community hall, play area)"
+  },
+  {
+    "id": "maintenance-policy-3",
+    "doc": "maintenance-policy",
+    "doc_label": "MAINTENANCE POLICY",
+    "section": "What it does not cover",
+    "section_index": 3,
+    "text": "What it does not cover\n\n- Interior maintenance or repairs inside a unit\n- Unit contents insurance (buyers are responsible for their own policy)\n- Damage caused by a resident's negligence to common areas, which is billed separately at cost"
+  },
+  {
+    "id": "maintenance-policy-4",
+    "doc": "maintenance-policy",
+    "doc_label": "MAINTENANCE POLICY",
+    "section": "Maintenance advance",
+    "section_index": 4,
+    "text": "Maintenance advance\n\nA one-time maintenance advance equal to 6 months of maintenance charges is collected at possession, held as a reserve against the building's maintenance fund. It is not refundable but is credited against future monthly bills once depleted."
+  },
+  {
+    "id": "maintenance-policy-5",
+    "doc": "maintenance-policy",
+    "doc_label": "MAINTENANCE POLICY",
+    "section": "Billing and late payment",
+    "section_index": 5,
+    "text": "Billing and late payment\n\nBills are issued on the 1st of each month and due by the 10th. Unpaid balances after the 10th accrue a 2% monthly late fee. Access to amenities (pool, gym, community hall) may be suspended for accounts more than 60 days overdue; core services (security, elevators, backup power to the unit) are never suspended for non-payment."
+  },
+  {
+    "id": "payment-plan-1",
+    "doc": "payment-plan",
+    "doc_label": "PAYMENT PLAN",
+    "section": "Standard structure",
+    "section_index": 1,
+    "text": "Standard structure\n\nEvery unit at Crestview Residences is sold on the same three-part structure:\n\n- 20% down payment at booking\n- 70% in equal monthly installments over 36 months\n- 10% on possession\n\nBuyers may adjust the down payment between 10% and 30% and the installment term between 12 and 60 months. The possession payment is fixed at 10% of the unit price regardless of the chosen down payment or term. The remaining balance after the down payment and the possession payment is divided evenly across the chosen number of monthly installments."
+  },
+  {
+    "id": "payment-plan-2",
+    "doc": "payment-plan",
+    "doc_label": "PAYMENT PLAN",
+    "section": "Worked example — Unit B-305 (2 Bed, PKR 32,400,000)",
+    "section_index": 2,
+    "text": "Worked example — Unit B-305 (2 Bed, PKR 32,400,000)\n\nUsing the standard structure (20% down, 36 months):\n\n- Down payment (20%): PKR 6,480,000, due at booking\n- Monthly installment: PKR 630,000, due on the same date each month for 36 months (installments total PKR 22,680,000, which is 70% of the price)\n- Possession payment (10%): PKR 3,240,000, due when the unit is handed over"
+  },
+  {
+    "id": "payment-plan-3",
+    "doc": "payment-plan",
+    "doc_label": "PAYMENT PLAN",
+    "section": "Late payment",
+    "section_index": 3,
+    "text": "Late payment\n\nInstallments unpaid after a 10-day grace period accrue a surcharge of 1.5% of the overdue amount per month. Three consecutive missed installments trigger a formal notice; the booking may be cancelled under the terms in the booking process document if the account is not brought current within 30 days of that notice."
+  },
+  {
+    "id": "payment-plan-4",
+    "doc": "payment-plan",
+    "doc_label": "PAYMENT PLAN",
+    "section": "Early settlement",
+    "section_index": 4,
+    "text": "Early settlement\n\nBuyers may settle the remaining balance in full at any time with no prepayment penalty. Request an updated settlement figure from the sales office at least 5 business days before the intended payment date."
+  },
+  {
+    "id": "payment-plan-5",
+    "doc": "payment-plan",
+    "doc_label": "PAYMENT PLAN",
+    "section": "Currency and payment methods",
+    "section_index": 5,
+    "text": "Currency and payment methods\n\nAll prices and payments are in Pakistani Rupees (PKR). Payments are accepted by pay order, bank transfer, or cheque made out to Crestview Residences (Private) Limited. Cash payments are not accepted for any installment above PKR 500,000."
+  },
+  {
+    "id": "pet-policy-1",
+    "doc": "pet-policy",
+    "doc_label": "PET POLICY",
+    "section": "Registration",
+    "section_index": 1,
+    "text": "Registration\n\nResidents may keep pets subject to registration with the building management office before the pet moves in. Registration requires proof of current vaccination and, for dogs, proof of rabies vaccination specifically. There is a one-time registration fee of PKR 5,000 per pet."
+  },
+  {
+    "id": "pet-policy-2",
+    "doc": "pet-policy",
+    "doc_label": "PET POLICY",
+    "section": "Limits",
+    "section_index": 2,
+    "text": "Limits\n\n- One pet per unit for 1-bed units\n- Up to two pets per unit for 2-bed and 3-bed units\n- Registration is per pet; a replacement pet requires new registration even if a prior pet is deregistered"
+  },
+  {
+    "id": "pet-policy-3",
+    "doc": "pet-policy",
+    "doc_label": "PET POLICY",
+    "section": "Breed and species",
+    "section_index": 3,
+    "text": "Breed and species\n\nCats, dogs, and caged birds are permitted. Dogs from breeds classified as restricted by local municipal regulations are not permitted regardless of size or temperament. Reptiles, livestock, and any species requiring a specialized enclosure are not permitted."
+  },
+  {
+    "id": "pet-policy-4",
+    "doc": "pet-policy",
+    "doc_label": "PET POLICY",
+    "section": "Common area rules",
+    "section_index": 4,
+    "text": "Common area rules\n\n- Dogs must be leashed at all times in common areas, including the courtyard and lobbies\n- Pets are not permitted in the pool, gym, or community hall\n- Owners are responsible for immediate cleanup in common areas; a cleanup fee of PKR 2,000 is charged per verified incident\n- Elevators: pets should use the service elevator during peak hours (8-10 am, 6-8 pm) where available"
+  },
+  {
+    "id": "pet-policy-5",
+    "doc": "pet-policy",
+    "doc_label": "PET POLICY",
+    "section": "Noise and disputes",
+    "section_index": 5,
+    "text": "Noise and disputes\n\nRepeated verified noise complaints (three within a 90-day period) result in a review by building management, which may include a requirement to board the pet during specific hours. Crestview does not evict residents over pet ownership; disputes are handled through the standard resident grievance process."
+  },
+  {
+    "id": "possession-schedule-1",
+    "doc": "possession-schedule",
+    "doc_label": "POSSESSION SCHEDULE",
+    "section": "Target dates",
+    "section_index": 1,
+    "text": "Target dates\n\nPossession is scheduled by tower, tied to construction sequencing:\n\n- Tower A: October 2027\n- Tower B: November 2027\n- Tower C: December 2027\n\nCrestview refers to this window collectively as \"possession Q4 2027\" in sales material. Individual unit handover dates within a tower's month are assigned on a rolling basis as fit-out inspections clear, and are communicated to buyers at least 60 days in advance."
+  },
+  {
+    "id": "possession-schedule-2",
+    "doc": "possession-schedule",
+    "doc_label": "POSSESSION SCHEDULE",
+    "section": "Construction status",
+    "section_index": 2,
+    "text": "Construction status\n\nAs of the current sales phase, structural work is complete on Towers A and B, with Tower C at slab-and-column stage. Facade and interior fit-out are underway on Tower A. These are indicative construction milestones, not contractual delivery guarantees."
+  },
+  {
+    "id": "possession-schedule-3",
+    "doc": "possession-schedule",
+    "doc_label": "POSSESSION SCHEDULE",
+    "section": "Handover process",
+    "section_index": 3,
+    "text": "Handover process\n\n1. Buyer receives a 60-day advance notice with an inspection appointment.\n2. Joint inspection (buyer + Crestview site team) using a standard snag list.\n3. Snags are rectified within 15 business days.\n4. Final possession payment (10%, per the payment plan) is due before keys are released.\n5. Keys and the handover documentation pack are issued at the site office."
+  },
+  {
+    "id": "possession-schedule-4",
+    "doc": "possession-schedule",
+    "doc_label": "POSSESSION SCHEDULE",
+    "section": "Delay policy",
+    "section_index": 4,
+    "text": "Delay policy\n\nIf possession for a given tower slips more than 90 days past the target month above, Crestview waives the maintenance advance (see the maintenance policy document) for the first 6 months after actual handover. This is the sole delay remedy under the standard sale agreement; no cash compensation is offered for delays under 90 days."
+  }
+]
