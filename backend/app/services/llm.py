@@ -115,6 +115,8 @@ class TurnResult:
     final_text: str
     citations: list[str] = field(default_factory=list)
     corrected: bool = False
+    sources: dict[str, str] = field(default_factory=dict)
+    """citation label -> retrieved chunk text, for the frontend's expandable source chips."""
 
 
 async def generate_reply(
@@ -133,6 +135,7 @@ async def generate_reply(
     retrieved = rag.retrieve(user_message, top_k=settings.retrieval_top_k)
     context = rag.build_context(retrieved)
     available_citations = [r.citation for r in retrieved]
+    chunk_text_by_citation = {r.citation: r.chunk.text for r in retrieved}
 
     system = build_system_prompt(context)
     provider = get_provider(settings)
@@ -161,4 +164,5 @@ async def generate_reply(
         final_text=final_text,
         citations=citations,
         corrected=final_text != streamed_text,
+        sources={c: chunk_text_by_citation[c] for c in citations if c in chunk_text_by_citation},
     )

@@ -28,7 +28,8 @@ async def _event_stream(
         if await request.is_disconnected():
             break
         if isinstance(chunk, TurnResult):
-            yield {"event": "citations", "data": json.dumps(chunk.citations)}
+            sources = [{"label": c, "text": chunk.sources.get(c, "")} for c in chunk.citations]
+            yield {"event": "citations", "data": json.dumps(sources)}
             yield {
                 "event": "done",
                 "data": json.dumps(
